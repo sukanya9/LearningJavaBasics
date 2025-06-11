@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab025_Multiplication_9 {
+public class LabAssesmt_Multiplication_9 {
 
     public static void main(String[] args) {
         int a=9;
